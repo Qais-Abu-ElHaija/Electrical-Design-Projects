@@ -1,1 +1,1 @@
-# Electrical-Design-Projects
+# Analog and Digital Circuits
